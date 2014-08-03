@@ -1,7 +1,7 @@
 truckcoin-seeder
 ===============
 
-Truckcoin-seeder is a crawler for the Litecoin network, which exposes a list
+Truckcoin-seeder is a crawler for the Truckcoin network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
