@@ -342,7 +342,7 @@ extern "C" void* ThreadStats(void*) {
   } while(1);
 }
 
-static const string mainnet_seeds[] = {"seed1.truckcoin.net", "node1.truckcoin.net", "node2.truckcoin.net", "node3.truckcoin.net", ""};
+static const string mainnet_seeds[] = {"node1.truckcoin.net", "node2.truckcoin.net", "node3.truckcoin.net", ""};
 static const string testnet_seeds[] = {""};
 static const string *seeds = mainnet_seeds;
 
